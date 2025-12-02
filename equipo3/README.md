@@ -2,7 +2,7 @@
 # Equipo 3
 
 ## Integrantes
-- [ ] Integrante 1
+- [x] Anaela Romero
 - [ ] Integrante 2
 - [ ] Integrante 3
 - [ ] Integrante 4
