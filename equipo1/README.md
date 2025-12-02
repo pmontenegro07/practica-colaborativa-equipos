@@ -3,7 +3,7 @@
 ## Integrantes
 - [ ] Integrante 1
 - [ ] Integrante 2
-- [ ] Integrante 3
+- [x] Andres Vazquez 
 - [ ] Integrante 4
 
 ## Tarea
