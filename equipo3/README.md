@@ -4,7 +4,7 @@
 ## Integrantes
 - [x] Anaela Romero
 - [X] Tatiana Pauzhe
-- [ ] Integrante 3
+- [ ] Martina Macas
 - [ ] Integrante 4
 
 ## Tarea
