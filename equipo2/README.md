@@ -3,7 +3,7 @@
 
 ## Integrantes
 - [ ] Integrante 1
-- [ ] Integrante 2
+- [ ] Martin Renato Ordoñez Peñaloza
 - [ ] Integrante 3
 - [ ] Integrante 4
 
