@@ -5,7 +5,7 @@
 - [ ] Pablo Joaquin Davila Moscoso
 - [ ] Martin Renato Ordoñez Peñaloza
 - [ ] Integrante 3
-- [ ] Integrante 4
+- [ ] Karol Aracelly Rendón Yunga 
 
 ## Tarea
 Cada integrante debe:
