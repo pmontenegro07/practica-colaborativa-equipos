@@ -4,7 +4,7 @@
 ## Integrantes
 - [ ] Pablo Joaquin Davila Moscoso
 - [ ] Martin Renato Ordoñez Peñaloza
-- [ ] Integrante 3
+- [ ] Samuel Villacis Gustavo Bravo
 - [ ] Karol Aracelly Rendón Yunga 
 
 ## Tarea
