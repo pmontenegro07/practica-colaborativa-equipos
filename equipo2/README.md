@@ -2,7 +2,7 @@
 # Equipo 2
 
 ## Integrantes
-- [ ] Integrante 1
+- [ ] Pablo Joaquin Davila Moscoso
 - [ ] Martin Renato Ordoñez Peñaloza
 - [ ] Integrante 3
 - [ ] Integrante 4
