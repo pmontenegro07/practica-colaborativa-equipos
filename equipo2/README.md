@@ -2,10 +2,10 @@
 # Equipo 2
 
 ## Integrantes
-- [ ] Integrante 1
-- [ ] Integrante 2
-- [ ] Integrante 3
-- [ ] Integrante 4
+- [ ] Pablo Joaquin Davila Moscoso
+- [ ] Martin Renato Ordoñez Peñaloza
+- [ ] Samuel Villacis Gustavo Bravo
+- [ ] Karol Aracelly Rendón Yunga 
 
 ## Tarea
 Cada integrante debe:
